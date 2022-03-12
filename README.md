@@ -5,9 +5,7 @@
 
 In this tutorial, I will be showing you how to create a Vodafone App Onboarding screen from Scratch in Flutter without using any library.
 
-# Live Preview
-
-<img height="480px" width="244px" src="https://user-images.githubusercontent.com/90831339/134784732-b78b5662-719a-4715-998c-87db14ba31ae.gif">
+Full Tutorial on Youtube https://www.youtube.com/watch?v=tjpYLU8yACw
 
 
 Do ⭐ the repo it really motivates me to share more open source
